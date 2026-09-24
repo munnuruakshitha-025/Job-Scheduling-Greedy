@@ -1,0 +1,21 @@
+Enter number of jobs: 5
+Enter job ID, deadline and profit:
+J1 2 100
+J2 1 19
+J3 2 27
+J4 1 25
+J5 3 15
+
+Jobs sorted by profit:
+J1 - Deadline: 2, Profit: 100
+J3 - Deadline: 2, Profit: 27
+J4 - Deadline: 1, Profit: 25
+J2 - Deadline: 1, Profit: 19
+J5 - Deadline: 3, Profit: 15
+
+Scheduled Jobs:
+Time Slot 1 -> J3
+Time Slot 2 -> J1
+Time Slot 3 -> J5
+
+Maximum Profit: 142
